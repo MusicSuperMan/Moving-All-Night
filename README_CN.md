@@ -1,4 +1,4 @@
-# 🎵   整夜舞动   🎧
+# 🎵 &nbsp;整夜舞动&nbsp;&nbsp;🎧
 
 [![Document Update Time](https://img.shields.io/badge/更新时间-05%2F15%2F2021-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/文档类型%3A%20兴趣分享-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
@@ -21,8 +21,8 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-# 💽   音乐旋律混音列表  💽
-## 🌈   音乐风格 🏳️‍🌈
+# 💽 &nbsp;音乐旋律混音列表&nbsp;&nbsp;💽
+## 🌈 &nbsp;&nbsp;音乐风格&nbsp;&nbsp;🏳️‍🌈
 - [ ] 1. 欧美电子
   - 1.1 Ofenbach - Be Mine (Stylezz & Denis Agamirov Radio Edit)
   - 1.2 If Only You (Dub Mix)
@@ -63,7 +63,7 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-## 💡  如何对该开源文档进行贡献💡
+## 💡&nbsp;&nbsp;如何对该开源文档进行贡献&nbsp;&nbsp;💡
 
 ``` text
 1. 可通过issues分享你喜欢的音乐类型或音乐歌单;
@@ -71,7 +71,7 @@ MusicSuperMan-Organization">
 3. 与百万创作人一起分享与发布混音成长, 用作品打动世界 ;
 ```
 
-## ®️  许可开源协议  ®️
+## ®️&nbsp;&nbsp;许可开源协议&nbsp;&nbsp;®️
 [General Public License Version 2.0](./LICENSE)
 
 ---------

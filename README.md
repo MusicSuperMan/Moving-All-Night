@@ -1,4 +1,4 @@
-# 🎵   Moving All Night   🎧
+# 🎵 &nbsp;Moving All Night&nbsp;&nbsp;🎧
 
 [![Document Update Time](https://img.shields.io/badge/Update%20Time-05%2F15%2F2021-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/Doc%20Type%3A%20Interest%20Sharing%20Guide-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
@@ -21,8 +21,8 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-# 💽   Music Melody Remix List  💽
-## 🌈   Music Style 🏳️‍🌈
+# 💽 &nbsp;Music Melody Remix List&nbsp;💽
+## 🌈 &nbsp;&nbsp;Music Style&nbsp;&nbsp;🏳️‍🌈
 - [ ] 1. European and American Electronics
   - 1.1 Ofenbach - Be Mine (Stylezz & Denis Agamirov Radio Edit)
   - 1.2 If Only You (Dub Mix)
@@ -63,14 +63,14 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-## 💡 How To Contribute To This Open Source Document💡
+## 💡&nbsp;&nbsp;How To Contribute To This Open Source Document&nbsp;&nbsp;💡
 ``` text
 1. You Can Share Your Favorite Music Type Or Music Playlist Through Issues;
 2. We Will Jointly Create A Distributed Mixing Project And Continue To Create New Vitality For Your Favorite Music;
 3. Share And Release The Growth Of Mixing With Millions Of Creators, And Impress The World With Works;
 ```
 
-## ®️  License Open Source Agreement  ®️
+## ®️&nbsp;&nbsp;License Open Source Agreement&nbsp;&nbsp;®️
 [General Public License Version 2.0](./LICENSE)
 
 ---------
