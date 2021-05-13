@@ -1,4 +1,4 @@
-# 整夜鼓舞
+# 整夜舞动
 
 [![Document Update Time](https://img.shields.io/badge/更新时间-2021%2F05%2F15-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/Document%20Type%3A%20兴趣分享%20Guide-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
@@ -12,7 +12,7 @@
 
 <br>
 
-> 嘿, 伙计们, 我们正在做一个有趣的活动, "整夜鼓舞", 我们将汇聚你所喜爱的音乐旋律制作一首属于你的音乐, 让我们放松视觉，让音乐展现出你的魅力, 我们在Github代码托管平台上此开源项目, 希望你会喜欢它;
+> 嘿, 伙计们, 我们正在做一个有趣的活动, "整夜舞动", 我们将汇聚你所喜爱的音乐旋律制作一首属于你的音乐, 让我们放松视觉, 让音乐展现出你的魅力, 我们在Github代码托管平台上此开源项目, 希望你会喜欢它;
 
 <div align="center">
 <img src="./.github/resource/github-superman.png" width="350px" alt="
