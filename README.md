@@ -26,6 +26,17 @@ MusicSuperMan-Organization">
 - [ ] 1. European and American Electronics
   - 1.1 Ofenbach - Be Mine (Stylezz & Denis Agamirov Radio Edit)
   - 1.2 If Only You (Dub Mix)
+  - 1.3 Tired - (Gavin / Alan Walker Remix)
+  - 1.4 Shape Of You (Ramazan Cicek Remix)
+  - 1.5 U Are the One - Mari Ferrari
+  - 1.6 Us (Original Mix)
+  - 1.7 Closer (DJ Criswell Remix)
+  - 1.8 Dogs (Original Version) - HVOB
+  - 1.9 So Bad - VINNE / SoFLY
+  - 2.0 Stranger (Original Mix) - Suprafive / Nesco
+  - 2.1 Movement - Club 8
+  - 2.2 It's Over - Maki Flow / Jød
+  - 2.3 Solo（Lucian Dai HOUSE REMIX）
 
 - [ ] 2. European and American Hip Hop
   - xxxx
@@ -36,7 +47,13 @@ MusicSuperMan-Organization">
 - [ ] 4. Vocal BeatBox
   - xxxx
 
-- [ ] 5. XXXXX
+- [ ] 5. Korean Electronic Music
+  - xxxx
+
+- [ ] 6. Chinese Electronic Music
+  - xxxx
+
+- [ ] 7. XXXXX
   - xxxx
 
 <div align="center">
