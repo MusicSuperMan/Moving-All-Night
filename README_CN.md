@@ -1,14 +1,14 @@
 # 整夜舞动
 
 [![Document Update Time](https://img.shields.io/badge/更新时间-2021%2F05%2F15-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
-[![Document Type -Technical Architecture Guide](https://img.shields.io/badge/Document%20Type%3A%20兴趣分享%20Guide-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
-[![Document Language For Simplified Chinese](https://img.shields.io/badge/Document%20Language-中文-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_CN.md)
-[![Document Language For English](https://img.shields.io/badge/Document%20Language-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
+[![Document Type -Technical Architecture Guide](https://img.shields.io/badge/文档类型%3A%20兴趣分享-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
+[![Document Language For Simplified Chinese](https://img.shields.io/badge/文档语言-中文-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_CN.md)
+[![Document Language For English](https://img.shields.io/badge/文档语言-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
+[![Open Source](https://img.shields.io/badge/开放源码-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/MusicSuperMan/Moving-All-Night.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
 [![GitHub Release](https://img.shields.io/github/release/MusicSuperMan/Moving-All-Night.svg?style=for-the-badge&cacheSeconds=3600)]()
-[![Github Organization For GeekParkHub](https://img.shields.io/badge/Github%20Organization-MusicSuperMan-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/MusicSuperMan)
-[![Geek Developer For jeep711](https://img.shields.io/badge/Geek%20Developer-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
+[![Github Organization For GeekParkHub](https://img.shields.io/badge/组织-MusicSuperMan-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/MusicSuperMan)
+[![Geek Developer For jeep711](https://img.shields.io/badge/Developer-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
 
 <br>
 
