@@ -30,10 +30,13 @@ MusicSuperMan-Organization">
 - [ ] 2. European and American Hip Hop
   - xxxx
 
-- [ ] 3. BeatBox
+- [ ] 3. European and American Rock
   - xxxx
 
-- [ ] 4. XXXXX
+- [ ] 4. BeatBox
+  - xxxx
+
+- [ ] 5. XXXXX
   - xxxx
 
 <div align="center">
