@@ -71,7 +71,7 @@ MusicSuperMan-Organization">
 3. 与百万创作人一起分享与发布混音成长, 用作品打动世界 ;
 ```
 
-## ®️&nbsp;&nbsp;许可开源协议&nbsp;&nbsp;®️
+## ®️&nbsp;&nbsp;开源许可协议&nbsp;&nbsp;®️
 [General Public License Version 2.0](./LICENSE)
 
 ---------

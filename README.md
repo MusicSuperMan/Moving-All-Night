@@ -70,7 +70,7 @@ MusicSuperMan-Organization">
 3. Share And Release The Growth Of Mixing With Millions Of Creators, And Impress The World With Works;
 ```
 
-## ®️&nbsp;&nbsp;License Open Source Agreement&nbsp;&nbsp;®️
+## ®️&nbsp;&nbsp;Open Source License Agreement&nbsp;&nbsp;®️
 [General Public License Version 2.0](./LICENSE)
 
 ---------
