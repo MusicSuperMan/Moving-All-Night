@@ -12,7 +12,7 @@
 
 <br>
 
-> Hey Guys, We Are Doing An Interesting Activity, "Moving All Night", We Will Gather Your Favorite Music Melody, Relax Your Vision, Let The Music Show Your Charm, We Open Source The Project On The Github Platform, Hope You Will Enjoy It.
+> 嘿, 大家好, 我们正在做一个有趣的活动, "整夜移动", 我们将汇聚你所喜爱的音乐旋律制作一首属于你的音乐, 让我们放松视觉，让音乐展现出你的魅力, 我们在Github代码托管平台上此开源项目, 希望你会喜欢它;
 
 <div align="center">
 <img src="./.github/resource/github-superman.png" width="350px" alt="
