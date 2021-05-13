@@ -33,7 +33,7 @@ MusicSuperMan-Organization">
 - [ ] 4. 欧美摇滚
   - xxxx
 
-- [ ] 4. 节奏口技
+- [ ] 4. 人声节奏口技
   - xxxx
 
 - [ ] 5. XXXXX
