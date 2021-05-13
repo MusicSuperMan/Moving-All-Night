@@ -64,13 +64,13 @@ MusicSuperMan-Organization">
 <br>
 
 ## 💡 How To Contribute To This Open Source Document💡
-
+``` text
 1. You Can Share Your Favorite Music Type Or Music Playlist Through Issues;
 2. We Will Jointly Create A Distributed Mixing Project And Continue To Create New Vitality For Your Favorite Music;
 3. Share And Release The Growth Of Mixing With Millions Of Creators, And Impress The World With Works;
+```
 
-
-## License Open Source Agreement
+## ®️  License Open Source Agreement  ®️
 [General Public License Version 2.0](./LICENSE)
 
 ---------

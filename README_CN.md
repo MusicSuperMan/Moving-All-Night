@@ -63,14 +63,15 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-## 💡如何对该开源文档进行贡献💡
+## 💡  如何对该开源文档进行贡献💡
 
+``` text
 1. 可通过issues分享你喜欢的音乐类型或音乐歌单;
 2. 我们将共同创建分布式混音项目, 继续为你喜欢的音乐创造新的活力;
 3. 与百万创作人一起分享与发布混音成长, 用作品打动世界 ;
+```
 
-
-## License 开源协议
+## ®️  开源协议  ®️
 [General Public License Version 2.0](./LICENSE)
 
 ---------
