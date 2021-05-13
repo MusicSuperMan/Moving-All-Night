@@ -1,4 +1,4 @@
-# 🎵  整夜舞动  🎧
+# 🎵   整夜舞动   🎧
 
 [![Document Update Time](https://img.shields.io/badge/更新时间-05%2F15%2F2021-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/文档类型%3A%20兴趣分享-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
@@ -21,8 +21,8 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-# 💽  音乐旋律混音列表  💽
-## 🌈  音乐风格 🏳️‍🌈
+# 💽   音乐旋律混音列表  💽
+## 🌈   音乐风格 🏳️‍🌈
 - [ ] 1. 欧美电子
   - 1.1 Ofenbach - Be Mine (Stylezz & Denis Agamirov Radio Edit)
   - 1.2 If Only You (Dub Mix)

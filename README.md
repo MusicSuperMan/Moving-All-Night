@@ -1,4 +1,4 @@
-# 🎵  Moving All Night  🎧
+# 🎵   Moving All Night   🎧
 
 [![Document Update Time](https://img.shields.io/badge/Update%20Time-05%2F15%2F2021-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/Doc%20Type%3A%20Interest%20Sharing%20Guide-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
@@ -21,8 +21,8 @@ MusicSuperMan-Organization">
 </div>
 <br>
 
-# 💽  Music Melody Remix List  💽
-## 🌈  Music Style 🏳️‍🌈
+# 💽   Music Melody Remix List  💽
+## 🌈   Music Style 🏳️‍🌈
 - [ ] 1. European and American Electronics
   - 1.1 Ofenbach - Be Mine (Stylezz & Denis Agamirov Radio Edit)
   - 1.2 If Only You (Dub Mix)
