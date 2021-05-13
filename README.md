@@ -1,6 +1,6 @@
 # Moving All Night
 
-[![Document Update Time](https://img.shields.io/badge/Update%20Time-2021%2F05%2F15-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![Document Update Time](https://img.shields.io/badge/Update%20Time-05%2F15%2F2021-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/Doc%20Type%3A%20Interest%20Sharing%20Guide-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
 [![Document Language For Simplified Chinese](https://img.shields.io/badge/Doc%20Language-Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_CN.md)
 [![Document Language For English](https://img.shields.io/badge/Doc%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)

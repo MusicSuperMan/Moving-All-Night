@@ -1,6 +1,6 @@
 # 整夜舞动
 
-[![Document Update Time](https://img.shields.io/badge/更新时间-2021%2F05%2F15-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![Document Update Time](https://img.shields.io/badge/更新时间-05%2F15%2F2021-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Type -Technical Architecture Guide](https://img.shields.io/badge/文档类型%3A%20兴趣分享-blue.svg?style=for-the-badge&logo=safari&logoColor=white&cacheSeconds=3600)]()
 [![Document Language For Simplified Chinese](https://img.shields.io/badge/文档语言-中文-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_CN.md)
 [![Document Language For English](https://img.shields.io/badge/文档语言-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
